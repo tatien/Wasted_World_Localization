@@ -4,7 +4,7 @@
     {"key": "menu.button.load", "value": "Charger"},
     {"key": "menu.button.settings", "value": "Options"},
     {"key": "menu.button.quit", "value": "Quitter"},
-    {"key": "menu.load.delete.info", "value": "Êtes-vous sur de vouloir supprimer cette sauvegarde?"},
+    {"key": "menu.load.delete.info", "value": "Êtes-vous sûr de vouloir supprimer cette sauvegarde?"},
     {"key": "menu.load.delete.confirmButton", "value": "Supprimer"},
     {"key": "menu.load.delete.cancelButton", "value": "Annuler"},
 
@@ -18,12 +18,12 @@
     {"key": "game.map", "value": "Carte"},
     {"key": "game.research", "value": "Recherche"},
 
-    {"key": "game.craftMachine.changeRecipe", "value": "Recettes disponible"},
+    {"key": "game.craftMachine.changeRecipe", "value": "Recettes disponibles"},
     {"key": "game.craftMachine.changeRecipe.button", "value": "Changer de recette"},
-    {"key": "game.craftMachine.recipeLock", "value": "Une recherche est nécessaire pour déploquer cette recette."},
+    {"key": "game.craftMachine.recipeLock", "value": "Une recherche est nécessaire pour débloquer cette recette."},
     {"key": "game.craftMachine.missingQuantity", "value": "(Quantité insuffisante)"},
 
-    {"key": "game.research.noAccess", "value": "Accéder une station de recherche pour débuter une recherche."},
+    {"key": "game.research.noAccess", "value": "Accéder à une station de recherche pour débuter une recherche."},
     {"key": "game.research.noCurrent", "value": "Pas de recherche en cours"},
     {"key": "game.research.status", "value": "Statut: "},
     {"key": "game.research.status.none", "value": "Aucune recherche en cours, sélectionner une recherche pour commencer."},
@@ -50,8 +50,8 @@
     {"key": "game.research.desc.ToolEfficiency", "value": "Augmentation de l'efficacité des outils."},
 
     {"key": "game.research.DismantlingContainer", "value": "Démontage de container"},
-    {"key": "game.research.DismantlingVehicle", "value": "Démontage de vehicule"},
-    {"key": "game.research.DismantlingVehicleArmored", "value": "Démontage de vehicule blindé"},
+    {"key": "game.research.DismantlingVehicle", "value": "Démontage de véhicule"},
+    {"key": "game.research.DismantlingVehicleArmored", "value": "Démontage de véhicule blindé"},
     {"key": "game.research.DismantlingWall", "value": "Démontage de béton armé"},
     {"key": "game.research.DismantlingRadioactiveWaste", "value": "Ramassage de déchet radioactif"},
     {"key": "game.research.desc.dismantling", "value": "Technique de démontage"},
@@ -70,22 +70,28 @@
     {"key": "game.item.stoneJunk", "value": "Déchet de pierre"},
     {"key": "game.item.tireJunk", "value": "Pneu"},
     {"key": "game.item.woodJunk", "value": "Déchet de bois"},
-    {"key": "game.item.trashBag", "value": "Sac poubelle"},
-    {"key": "game.item.JunkRadioactive", "value": "Déchet radioactive"},
-
-    {"key": "game.item.desc.trashBag", "value": "C'est une loot box!!"},
+    {"key": "game.item.JunkRadioactive", "value": "Déchet radioactif"},
+    
     {"key": "game.item.desc.junk", "value": "Des déchets pour les uns, des trésors pour les autres!"},
 
+    
+    {"key": "game.item.trashBag", "value": "Sac poubelle"},
+    {"key": "game.item.crate", "value": "Caisse"},
+    {"key": "game.item.desc.trashBag", "value": "C'est une loot box!!"},
+    {"key": "game.item.desc.crate", "value": "C'est une loot box!!"},
+    {"key": "game.recipe.openTrashBag", "value": "Ouvrir un sac poubelle"},
+    {"key": "game.recipe.openCrate", "value": "Ouvrir une caisse"},
 
+    
     {"key": "game.item.aluminumCrushed", "value": "Aluminium broyé"},
     {"key": "game.item.copperCrushed", "value": "Cuivre broyé"},
     {"key": "game.item.fabricCrushed", "value": "Tissu broyé"},
     {"key": "game.item.glassCrushed", "value": "Verre broyé"},
     {"key": "game.item.ironCrushed", "value": "Fer broyé"},
-    {"key": "game.item.organicCrushed", "value": "Matière organique broyé"},
+    {"key": "game.item.organicCrushed", "value": "Matière organique broyée"},
     {"key": "game.item.plasticCrushed", "value": "Plastique broyé"},
     {"key": "game.item.steelCrushed", "value": "Acier broyé"},
-    {"key": "game.item.stoneCrushed", "value": "Pierre broyé"},
+    {"key": "game.item.stoneCrushed", "value": "Pierre broyée"},
     {"key": "game.item.tireCrushed", "value": "Pneu broyé"},
     {"key": "game.item.woodCrushed", "value": "Bois broyé"},
 
@@ -136,8 +142,8 @@
     {"key": "game.item.desc.electronicCard", "value": ""},
     {"key": "game.item.desc.electronicComponant", "value": ""},
     {"key": "game.item.desc.electronicPrintedCircuit", "value": ""},
-    {"key": "game.item.desc.fabric", "value": "Un tas de tissue. Prêt à l'utilisation."},
-    {"key": "game.item.desc.fertilizer", "value": "Permet d'aider une plante à grandir ou de fertiliser le sol."},
+    {"key": "game.item.desc.fabric", "value": "Un tas de tissus. Prêt à l'utilisation."},
+    {"key": "game.item.desc.fertilizer", "value": "Permet d'aider une plante à grandir ou fertiliser le sol."},
     {"key": "game.item.desc.glass", "value": "Un bloc de verre. Prêt à l'utilisation."},
     {"key": "game.item.desc.iron", "value": "Un bloc de fer. Prêt à l'utilisation."},
     {"key": "game.item.desc.lithium", "value": "Un bloc de lithium. Prêt à l'utilisation."},
@@ -156,19 +162,19 @@
 
     {"key": "game.item.BombT1", "value": "Bombe T1"},
     {"key": "game.item.BombT2", "value": "Bombe T2"},
-    {"key": "game.item.EarthQuakeBombT2", "value": "Bombe minéral"},
+    {"key": "game.item.EarthQuakeBombT2", "value": "Bombe minérale"},
     {"key": "game.item.desc.bomb", "value": "Restez à distance"},
 
 
-    {"key": "game.item.AmmoBagT1", "value": "Sac de munition"},
+    {"key": "game.item.AmmoBagT1", "value": "Sac de munitions"},
     {"key": "game.item.BagT1", "value": "Sac T1"},
     {"key": "game.item.BagT2", "value": "Sac T2"},
-    {"key": "game.item.scanerProbe", "value": "Drone d'exploration"},
+    {"key": "game.item.scanerProbe", "value": "Drône d'exploration"},
 
     {"key": "game.item.desc.AmmoBagT1", "value": "Ajoute un emplacement de munition"},
     {"key": "game.item.desc.BagT1", "value": "Ajoute 10 emplacements d'inventaire"},
     {"key": "game.item.desc.BagT2", "value": "Ajoute 20 emplacements d'inventaire"},
-    {"key": "game.item.desc.scanerProbe", "value": "Scane la carte"},
+    {"key": "game.item.desc.scanerProbe", "value": "Scanne la carte"},
 
 
     {"key": "game.item.pickaxeT0", "value": "Pioche de fortune"},
@@ -183,7 +189,7 @@
 
     {"key": "game.item.hammerT1", "value": "Marteau"},
     {"key": "game.item.Spade", "value": "Pelle"},
-    {"key": "game.item.desc.hammerT1", "value": "Utile pour démonter des batiments et machines."},
+    {"key": "game.item.desc.hammerT1", "value": "Utile pour démonter des bâtiments et machines."},
     {"key": "game.item.desc.Spade", "value": "Utile pour déplanter ou pour creuser un trou."},
 
 
@@ -199,14 +205,14 @@
 
     {"key": "game.item.swordT0", "value": "Tuyau"},
     {"key": "game.item.swordT1", "value": "Machette"},
-    {"key": "game.item.desc.swordT0", "value": "Arme de mélée"},
-    {"key": "game.item.desc.swordT1", "value": "Arme de mélée"},
+    {"key": "game.item.desc.swordT0", "value": "Arme de mêlée"},
+    {"key": "game.item.desc.swordT1", "value": "Arme de mêlée"},
 
     {"key": "game.item.BatT0", "value": "Batte de baseball"},
-    {"key": "game.item.desc.BatT0", "value": "Arme de mélée"},
+    {"key": "game.item.desc.BatT0", "value": "Arme de mêlée"},
 
     {"key": "game.item.SpearT0", "value": "Lance"},
-    {"key": "game.item.desc.SpearT0", "value": "Arme de mélée"},
+    {"key": "game.item.desc.SpearT0", "value": "Arme de mêlée"},
 
     {"key": "game.item.DiskLauncherT1", "value": "Lanceur de disque"},
     {"key": "game.item.desc.DiskLauncherT1", "value": "Lanceur de lame de scie circulaire"},
@@ -231,7 +237,7 @@
     {"key": "game.item.desc.ammoT1", "value": ""},
     {"key": "game.item.desc.ammoT2", "value": ""},
     {"key": "game.item.desc.ammoCircularBladeT0", "value": "Utile pour le lanceur de disque."},
-    {"key": "game.item.desc.AmmoRocketT0", "value": "A utiliser avec le lance roquette."},
+    {"key": "game.item.desc.AmmoRocketT0", "value": "A utiliser avec le lance-roquette."},
 
 
     {"key": "game.craft.multiSeed", "value": "Trouver des graines"},
@@ -289,7 +295,6 @@
     {"key": "game.item.desc.MedKit", "value": ""},
     {"key": "game.item.desc.PainKiller", "value": ""},
 
-    {"key": "game.recipe.openTrashBag", "value": "Ouvrir un sac poubelle"},
 
 
 
@@ -301,9 +306,9 @@
     {"key": "game.building.chestT1", "value": "Coffre"},
     {"key": "game.building.composterT1", "value": "Composteur T1"},
     {"key": "game.building.composterT2", "value": "Composteur T2"},
-    {"key": "game.building.ComposterReservoirT2", "value": "Reservoir à composter"},
+    {"key": "game.building.ComposterReservoirT2", "value": "Réservoir à composter"},
     {"key": "game.building.crusherT0", "value": "Broyeur basique"},
-    {"key": "game.building.crusherT2", "value": "Broyeur avancée"},
+    {"key": "game.building.crusherT2", "value": "Broyeur avancé"},
     {"key": "game.building.ForgeT2", "value": "Forge"},
     {"key": "game.building.furnaceT0", "value": "Feu de camp"},
     {"key": "game.building.furnaceT1", "value": "Four"},
@@ -314,15 +319,15 @@
     {"key": "game.building.planterLargeT1", "value": "Planteur large T1"},
     {"key": "game.building.PrinterT2", "value": "Imprimante"},
     {"key": "game.building.ResearchStationBluePrintT1", "value": "Station de recherche"},
-    {"key": "game.building.seedMaker", "value": "Extracteur de graine"},
+    {"key": "game.building.seedMaker", "value": "Extracteur de graines"},
     {"key": "game.building.trashBagSorterT2", "value": "Trieur de déchets"},
     {"key": "game.building.WaterCollectorT2", "value": "Collecteur d'eau"},
     {"key": "game.building.workbenchChemicalT1", "value": "Plan de travail chimique"},
     {"key": "game.building.workbenchT0", "value": "Plan de travail"},
     {"key": "game.building.workbenchGearT0", "value": "Plan de travail d'équipement"},
 
-    {"key": "game.building.blueprint.desc", "value": "Plan prêt à être placer."},
-    {"key": "game.building.desc.composterT1", "value": "Plan prêt à être placer. Mettez des déchets organiques broyer et laissez reposer."},
+    {"key": "game.building.blueprint.desc", "value": "Plan prêt à être placé."},
+    {"key": "game.building.desc.composterT1", "value": "Plan prêt à être placé. Mettez des déchets organiques broyez et laissez reposer."},
 
 
     {"key": "game.villa.foundation", "value": "Fondations"},
@@ -330,7 +335,7 @@
     {"key": "game.villa.level1", "value": "Premier étage"},
     {"key": "game.villa.level2", "value": "Toit"},
 
-    {"key": "game.pond.manualPump", "value": "Pompe manuel"},
+    {"key": "game.pond.manualPump", "value": "Pompe manuelle"},
     {"key": "game.pond.autoPump", "value": "Pompe automatique"},
     {"key": "game.pond.depollute", "value": "Dépollution"},
 
@@ -346,7 +351,7 @@
     {"key": "game.attribute.areaSize", "value": "Zone"},
     {"key": "game.attribute.efficiency", "value": "Efficacité"},
     {"key": "game.attribute.useSpeed", "value": "Vitesse d'utilisation"},
-    {"key": "game.attribute.numberTargetHit", "value": "Nombre de cible"},
+    {"key": "game.attribute.numberTargetHit", "value": "Nombre de cibles"},
     {"key": "game.attribute.energyCost", "value": "Coût en énergie"},
 
     {"key": "game.attribute.energy", "value": "Energie"},
@@ -367,7 +372,7 @@
     {"key": "game.goal.build.boolean", "value": "Placer: {0}"},
     {"key": "game.goal.craft.boolean", "value": "Fabriquer: {0}"},
     {"key": "game.goal.plant.progress", "value": "Planter: {0} {1}"},
-    {"key": "game.goal.craft.beetroot", "value": "Utiliser l'extracteur de graine pour obtenir des {0}"},
+    {"key": "game.goal.craft.beetroot", "value": "Utiliser l'extracteur de graines pour obtenir des {0}"},
     {"key": "game.goal.craft.openTrashBag", "value": "Ouvrir des sacs poubelles {0}"},
 
 
@@ -376,7 +381,7 @@
     
     
     {"key": "game.goal.cmd.move", "value": "Déplacement: [{0}] [{1}] [{2}] [{3}]"},
-    {"key": "game.goal.cmd.use", "value": "Intéragir: [{0}]"},
+    {"key": "game.goal.cmd.use", "value": "Interagir: [{0}]"},
     {"key": "game.goal.cmd.inventory", "value": "Ouvrir l'inventaire: [{0}]"},
     {"key": "game.goal.cmd.building", "value": "Ouvrir la fenêtre de craft des machines: [{0}]"},
     {"key": "game.goal.cmd.map", "value": "Ouvrir la carte: [{0}]"},
@@ -387,8 +392,8 @@
     {"key": "game.goal.progress.floorTileFertilize", "value": "Utiliser de l'engrais sur une dalle de terre {0}"},
     {"key": "game.goal.progress.floorTileFertilizeMax", "value": "Améliorer une dalle de terre au maximum"},
 
-    {"key": "game.goal.progress.saveBed", "value": "Intéragir avec un lit pour sauvegarder et récupérer de la vie et de l'énergie."},
-    {"key": "game.goal.progress.saveBunker", "value": "Intéragir avec le bunker pour sauvegarder et récupérer de la vie et de l'énergie"},
+    {"key": "game.goal.progress.saveBed", "value": "Interagir avec un lit pour sauvegarder et récupérer de la vie et de l'énergie."},
+    {"key": "game.goal.progress.saveBunker", "value": "Interagir avec le bunker pour sauvegarder et récupérer de la vie et de l'énergie"},
 
 
     {"key": "game.goal.progress.villaUpgrade1", "value": "Réparer un étage du manoir"},
@@ -469,6 +474,9 @@
     {"key": "settings.key.building", "value": "Bâtiment"},
     {"key": "settings.key.map", "value": "Carte"},
     {"key": "settings.key.research", "value": "Recherche"},
+    {"key": "settings.key.rotateBuilding", "value": "Rotation bâtiment"},
+    {"key": "settings.key.stackSplit", "value": "Division de pile"},
+    {"key": "settings.key.stackTransfer", "value": "Transfert de pile"},
     {"key": "settings.key.cameraZoomOut", "value": "Caméra zoom arrière"},
     {"key": "settings.key.cameraZoomIn", "value": "Caméra zoom avant"},
     {"key": "settings.key.reverseWheelDirection", "value": "Inverser le sens de la molette"},

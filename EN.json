@@ -71,13 +71,19 @@
     {"key": "game.item.stoneJunk", "value": "Junk stone"},
     {"key": "game.item.tireJunk", "value": "Tire"},
     {"key": "game.item.woodJunk", "value": "Junk wood"},
-    {"key": "game.item.trashBag", "value": "Trash bag"},
     {"key": "game.item.JunkRadioactive", "value": "Radioactive waste"},
 
-    {"key": "game.item.desc.trashBag", "value": "Whoo it's a loot box!"},
     {"key": "game.item.desc.junk", "value": "One man's trash is another's treasure!"},
 
     
+    {"key": "game.item.trashBag", "value": "Trash bag"},
+    {"key": "game.item.crate", "value": "Crate"},
+    {"key": "game.item.desc.trashBag", "value": "Whoo it's a loot box!"},
+    {"key": "game.item.desc.crate", "value": "Whoo it's a loot box!"},
+    {"key": "game.recipe.openTrashBag", "value": "Open trash bag"},
+    {"key": "game.recipe.openCrate", "value": "Open crate"},
+
+
     {"key": "game.item.aluminumCrushed", "value": "Crushed aluminum"},
     {"key": "game.item.copperCrushed", "value": "Crushed copper"},
     {"key": "game.item.fabricCrushed", "value": "Crushed fabric"},
@@ -290,7 +296,6 @@
     {"key": "game.item.desc.PainKiller", "value": ""},
 
 
-    {"key": "game.recipe.openTrashBag", "value": "Open trash bag"},
 
 
 
@@ -462,6 +467,9 @@
     {"key": "settings.key.building", "value": "Building"},
     {"key": "settings.key.map", "value": "Map"},
     {"key": "settings.key.research", "value": "Research"},
+    {"key": "settings.key.rotateBuilding", "value": "Rotate building"},
+    {"key": "settings.key.stackSplit", "value": "Stack split"},
+    {"key": "settings.key.stackTransfer", "value": "Stack transfer"},
     {"key": "settings.key.cameraZoomOut", "value": "Camera zoom out"},
     {"key": "settings.key.cameraZoomIn", "value": "Camera zoom in"},
     {"key": "settings.key.reverseWheelDirection", "value": "Reverse wheel direction"},
