@@ -1,0 +1,483 @@
+{
+  "items": [
+
+    {"key": "Do Not Translate the left text it the identifier of the text", "value": "You can translate this"},
+    {"key": "menu.button.play", "value": "Neues Spiel"},
+    {"key": "menu.button.load", "value": "Laden"},
+    {"key": "menu.button.settings", "value": "Einstellungen"},
+    {"key": "menu.button.quit", "value": "Beenden"},
+    {"key": "menu.load.delete.info", "value": "Willst du diesen Spielstand wirklich löschen?"},
+    {"key": "menu.load.delete.confirmButton", "value": "Löschen"},
+    {"key": "menu.load.delete.cancelButton", "value": "Abbrechen"},
+
+
+    {"key": "game.inventory", "value": "Inventar"},
+    {"key": "game.inventory.gears", "value": "Ausrüstungsslots"},
+    {"key": "game.inventory.bag", "value": "Rucksack"},
+    {"key": "game.inventory.ammoBag", "value": "Munitionstasche"},
+    {"key": "game.inventory.ammo", "value": "Munitionsslot(s)"},
+    {"key": "game.building", "value": "Gebäude"},
+    {"key": "game.map", "value": "Karte"},
+    {"key": "game.research", "value": "Forschung"},
+
+    {"key": "game.craftMachine.changeRecipe", "value": "verfügbare Rezepte"},
+	{"key": "game.craftMachine.changeRecipe.button", "value": "Rezept wechseln"},
+    {"key": "game.craftMachine.recipeLock", "value": "Dieses Rezept muss erforscht werden."},
+    {"key": "game.craftMachine.missingQuantity", "value": "(unzureichende Materialien)"},
+
+    {"key": "game.research.noAccess", "value": "Benutze eine Forschungsstation, um einen Forschungsauftrag zu starten."},
+    {"key": "game.research.noCurrent", "value": "Aktuell kein Forschungsauftrag"},
+    {"key": "game.research.status", "value": "Status: "},
+    {"key": "game.research.status.none", "value": "Aktuell läuft keine Forschung, bitte wähle einen Forschungsauftrag."},
+    {"key": "game.research.status.missingData", "value": "Nicht genug Daten, es werden mehr benötigt."},
+    {"key": "game.research.status.processing", "value": "Bearbeite"},
+    {"key": "game.research.status.finished", "value": "Forschung abgeschlossen, bitte wähle einen anderen Forschungsauftrag."},
+    {"key": "game.research.processingPower", "value": "Energie für Bearbeitung: {0}"},
+
+    {"key": "game.research.desc.buildingUnlock", "value": "Schalte eine neue Blaupause frei"},
+    {"key": "game.research.desc.treeUnlock", "value": "Entdecke eine neu Baumart"},
+
+
+    {"key": "game.research.MineralData", "value": "mineralische Daten"},
+    {"key": "game.research.OrganicData", "value": "organische Daten"},
+
+    {"key": "game.research.desc.MineralData", "value": "Ergebnis mineralischer Analyse"},
+    {"key": "game.research.desc.OrganicData", "value": "Ergebnis organischer Analyse"},
+
+    {"key": "game.research.ToolAoE", "value": "Werkzeug: Wirkungsbereich"},
+    {"key": "game.research.desc.ToolAoE", "value": "Erhöht den Wirkungsbereich (AoE) deines Werkzeugs."},
+
+    {"key": "game.research.ToolEfficiency", "value": "Werkzeug: Effizienz"},
+    {"key": "game.research.desc.ToolEfficiency", "value": "Erhöt die Effizienz deines Werkzeugs."},
+
+    {"key": "game.research.DismantlingContainer", "value": "Zerlegen von Containern"},
+    {"key": "game.research.DismantlingVehicle", "value": "Zerlegen von Fahrzeugen"},
+    {"key": "game.research.DismantlingVehicleArmored", "value": "Zerlegen von gepanzerten Fahrzeuge"},
+    {"key": "game.research.DismantlingWall", "value": "Zerlegen von Stahlbeton"},
+    {"key": "game.research.DismantlingRadioactiveWaste", "value": "Sammeln radioaktiver Abfälle"},
+    {"key": "game.research.desc.dismantling", "value": "Zerlegungstechnik"},
+
+
+    {"key": "game.item.aluminumJunk", "value": "Aluminiumschrott"},
+    {"key": "game.item.batteryJunk", "value": "alte Batterie"},
+    {"key": "game.item.copperJunk", "value": "Kupferschrott"},
+    {"key": "game.item.electronicJunk", "value": "Elektronikschrott"},
+    {"key": "game.item.fabricJunk", "value": "Stofffetzen"},
+    {"key": "game.item.glassJunk", "value": "Altglas"},
+    {"key": "game.item.ironJunk", "value": "Eisenschrott"},
+    {"key": "game.item.organicJunk", "value": "organische Abfälle"},
+    {"key": "game.item.plasticJunk", "value": "Plastikmüll"},
+    {"key": "game.item.steelJunk", "value": "Stahlschrott"},
+    {"key": "game.item.stoneJunk", "value": "Bruchstein"},
+    {"key": "game.item.tireJunk", "value": "Altreifen"},
+    {"key": "game.item.woodJunk", "value": "Altholz"},
+    {"key": "game.item.JunkRadioactive", "value": "radiaktiver Abfall"},
+
+    {"key": "game.item.desc.junk", "value": "Für den einen ist es Müll, für jemand anderes ein Schatz!"},
+
+   
+    {"key": "game.item.trashBag", "value": "Müllbeutel"},
+    {"key": "game.item.crate", "value": "Kiste"},	
+    {"key": "game.item.desc.trashBag", "value": "Whoo, es ist eine Beutekiste!"},
+    {"key": "game.item.desc.crate", "value": "Whoo, es ist eine Beutekiste!"},
+    {"key": "game.recipe.openTrashBag", "value": "Öffne Müllbeutel"},
+    {"key": "game.recipe.openCrate", "value": "Öffne Kiste"},
+
+	
+    {"key": "game.item.aluminumCrushed", "value": "zerkleinertes Aluminium"},
+    {"key": "game.item.copperCrushed", "value": "zerkleinertes Kupfer"},
+    {"key": "game.item.fabricCrushed", "value": "zerkleinerter Stoff"},
+    {"key": "game.item.glassCrushed", "value": "zerkleinertes Glas"},
+    {"key": "game.item.ironCrushed", "value": "zerkleinertes Eisen"},
+    {"key": "game.item.organicCrushed", "value": "zerkleinertes organisches Material"},
+    {"key": "game.item.plasticCrushed", "value": "zerkleinertes Plastik"},
+    {"key": "game.item.steelCrushed", "value": "zerkleinerter Stahl"},
+    {"key": "game.item.stoneCrushed", "value": "zerkleinerter Stein"},
+    {"key": "game.item.tireCrushed", "value": "zerkleinerte Reifen"},
+    {"key": "game.item.woodCrushed", "value": "zerkleinertes Holz"},
+
+    {"key": "game.item.desc.crushed", "value": "Recycelt."},
+    {"key": "game.item.desc.organicCrushed", "value": "Wirf es auf den Kompost."},
+
+    {"key": "game.item.acidBarrel", "value": "Säurefass"},
+    {"key": "game.item.acidBucket", "value": "Eimer mit Säure"},
+    {"key": "game.item.aluminum", "value": "Aluminium"},
+    {"key": "game.item.barrelPlastic", "value": "Plastikfass"},
+    {"key": "game.item.barrelSteel", "value": "Stahlfass"},
+    {"key": "game.item.battery", "value": "Batterie"},
+    {"key": "game.item.bucket", "value": "Eimer"},
+    {"key": "game.item.copper", "value": "Kupfer"},
+    {"key": "game.item.explosive", "value": "TNT"},
+    {"key": "game.item.electronicCard", "value": "elektronisches Bauteil"},
+    {"key": "game.item.electronicComponant", "value": "elektronische Komponenten"},
+    {"key": "game.item.electronicPrintedCircuit", "value": "Leiterplatte"},
+    {"key": "game.item.fabric", "value": "Stoff"},
+    {"key": "game.item.fertilizerT1", "value": "Dünger"},
+    {"key": "game.item.fertilizerT2", "value": "Dünger T2"},
+    {"key": "game.item.fertilizerT3", "value": "Dünger T3"},
+    {"key": "game.item.glass", "value": "Glas"},
+    {"key": "game.item.iron", "value": "Eisen"},
+    {"key": "game.item.lithium", "value": "Lithium"},
+    {"key": "game.item.oilBarrel", "value": "Ölfass"},
+    {"key": "game.item.oilBucket", "value": "Eimer mit Öl"},
+    {"key": "game.item.plastic", "value": "Plastik"},
+    {"key": "game.item.steel", "value": "Stahl"},
+    {"key": "game.item.steelReinforced", "value": "verstärkter Stahl"},
+    {"key": "game.item.stone", "value": "Stein"},
+    {"key": "game.item.rubber", "value": "Gummi"},
+    {"key": "game.item.waterBarrel", "value": "Wasserfass"},
+    {"key": "game.item.waterBucket", "value": "Eimer mit Wasser"},
+    {"key": "game.item.wood", "value": "Holz"},
+
+
+    {"key": "game.item.desc.acidBarrel", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.acidBucket", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.aluminum", "value": "Ein Block reines Aluminium. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.barrelPlastic", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.barrelSteel", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.battery", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.bucket", "value": "Ein leerer Eimer."},
+    {"key": "game.item.desc.copper", "value": "Ein Block reines Kupfer. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.explosive", "value": "WARNUNG! Vorsichtig mit umgehen!"},
+    {"key": "game.item.desc.electronicCard", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.electronicComponant", "value": "Fertig zum Verlöten."},
+    {"key": "game.item.desc.electronicPrintedCircuit", "value": "Fertig zum Verlöten."},
+    {"key": "game.item.desc.fabric", "value": "Ein Stück Stoff. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.fertilizer", "value": "Als Dünger für einen Pflanzkübel (beschleunigt Pflanzenwachstum), oder zur Regeneration des Bodens."},
+    {"key": "game.item.desc.glass", "value": "Ein Block reines Glas. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.iron", "value": "Ein Block reines Eisen. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.lithium", "value": "Ein Block reines Lithium. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.oilBarrel", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.oilBucket", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.plastic", "value": "Ein Block reines Plastic. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.rubber", "value": "Ein Block reines Gummi. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.steel", "value": "Ein Block reiner Stahl. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.steelReinforced", "value": "Verstärkte Stahlstange. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.stone", "value": "Ein Stein. Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.waterBarrel", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.waterBucket", "value": "Fertig zum Verarbeiten."},
+    {"key": "game.item.desc.basicResource", "value": "Material fertig zum Verarbeiten."},
+    {"key": "game.item.desc.wood", "value": "Ein Stück Holz. Fertig zum Verarbeiten."},
+
+    {"key": "game.item.BombT1", "value": "Bombe T1"},
+    {"key": "game.item.BombT2", "value": "Bombe T2"},
+    {"key": "game.item.EarthQuakeBombT2", "value": "Mineral-Bombe"},
+    {"key": "game.item.desc.bomb", "value": "Halte Abstand!"},
+
+
+    {"key": "game.item.AmmoBagT1", "value": "Munitionsbeutel"},
+    {"key": "game.item.BagT1", "value": "Rucksack T1"},
+    {"key": "game.item.BagT2", "value": "Rucksack T2"},
+    {"key": "game.item.scanerProbe", "value": "Sonde zum Scannen"},
+
+    {"key": "game.item.desc.AmmoBagT1", "value": "Fügt einen Munitionsslot hinzu"},
+    {"key": "game.item.desc.BagT1", "value": "Fügt 10 Inventaplätze hinzu"},
+    {"key": "game.item.desc.BagT2", "value": "Fügt 20 Inventaplätze hinzu"},
+    {"key": "game.item.desc.scanerProbe", "value": "Scanne die Karte"},
+
+    {"key": "game.item.pickaxeT0", "value": "behelfsmäßige Spitzhacke"},
+    {"key": "game.item.pickaxeT1", "value": "einfache Spitzhacke"},
+    {"key": "game.item.pickaxeT2", "value": "Spitzhacke T2"},
+    {"key": "game.item.pickaxeT3", "value": "Spitzhacke T3"},
+
+    {"key": "game.item.desc.pickaxeT0", "value": "Benutzen, um Sachen zu zerstören/abzubauen."},
+    {"key": "game.item.desc.pickaxeT1", "value": "Benutzen, um Sachen zu zerstören/abzubauen."},
+    {"key": "game.item.desc.pickaxeT2", "value": "Benutzen, um Sachen zu zerstören/abzubauen."},
+    {"key": "game.item.desc.pickaxeT3", "value": "Benutzen, um Sachen zu zerstören/abzubauen."},
+    
+    
+    {"key": "game.item.hammerT1", "value": "Hammer"},
+    {"key": "game.item.Spade", "value": "Spaten"},
+    {"key": "game.item.desc.hammerT1", "value": "Benutzen, um Gebäude und Machinen auseinander zu nehmen."},
+    {"key": "game.item.desc.Spade", "value": "Benutzen, um Pflanzen auszugraben oder Löcher zu graben."},
+
+
+    {"key": "game.item.nailGun", "value": "Nagelpistole"},
+    {"key": "game.item.desc.nailGun", "value": "benötigt Nägel"},
+    {"key": "game.item.nail", "value": "Nagel"},
+    {"key": "game.item.desc.nail", "value": "für die Nagelpistole"},
+
+
+    {"key": "game.item.shotgunT1", "value": "einfache Schrotflinte"},
+    {"key": "game.item.shotgunT2", "value": "verbesserte Schrotflinte"},
+    {"key": "game.item.desc.shotgunT1", "value": "Fernkampfwaffe"},
+    {"key": "game.item.desc.shotgunT2", "value": "Fernkampfwaffe"},
+
+    {"key": "game.item.swordT0", "value": "Rohr"},
+    {"key": "game.item.swordT1", "value": "Machete"},
+    {"key": "game.item.desc.swordT0", "value": "Nahkampfwaffe"},
+    {"key": "game.item.desc.swordT1", "value": "Nahkampfwaffe"},
+
+    {"key": "game.item.BatT0", "value": "Baseballschläger"},
+    {"key": "game.item.desc.BatT0", "value": "Nahkampfwaffe"},
+
+    {"key": "game.item.SpearT0", "value": "Speer"},
+    {"key": "game.item.desc.SpearT0", "value": "Nahkampfwaffe"},
+
+    {"key": "game.item.DiskLauncherT1", "value": "Sägeblattwerfer"},
+    {"key": "game.item.desc.DiskLauncherT1", "value": "Verschießt rotierende Sägeblätter."},
+
+    {"key": "game.item.RifleT1", "value": "einfaches Sturmgewehr"},
+    {"key": "game.item.desc.RifleT1", "value": "Fernkampfwaffe"},
+    {"key": "game.item.RifleT2", "value": "verbessertes Sturmgewehr"},
+    {"key": "game.item.desc.RifleT2", "value": "Fernkampfwaffe"},
+    {"key": "game.item.HandGunT1", "value": "Pistole"},
+    {"key": "game.item.desc.HandGunT1", "value": "Fernkampfwaffe"},
+
+    {"key": "game.item.RocketLauncherT1", "value": "Raketenwerfer"},
+    {"key": "game.item.desc.RocketLauncherT1", "value": ""},
+
+    {"key": "game.item.ammoT0", "value": "einfache Munition"},
+    {"key": "game.item.ammoT1", "value": "verbesserte Munition"},
+    {"key": "game.item.ammoT2", "value": "radioaktive Munition"},
+    {"key": "game.item.ammoCircularBladeT0", "value": "Sägeblatt"},
+    {"key": "game.item.AmmoRocketT0", "value": "Rakete"},
+
+    {"key": "game.item.desc.ammoT0", "value": ""},
+    {"key": "game.item.desc.ammoT1", "value": ""},
+    {"key": "game.item.desc.ammoT2", "value": ""},
+    {"key": "game.item.desc.ammoCircularBladeT0", "value": "Geeignet für den Sägeblattwerfer."},
+    {"key": "game.item.desc.AmmoRocketT0", "value": "Munition für den Raktenwerfer."},
+
+
+    {"key": "game.craft.multiSeed", "value": "Suche Samen"},
+    {"key": "game.craft.desc.multiSeed", "value": "Was könnte ich finden?"},
+
+
+    {"key": "game.item.SeedApple", "value": "Apfelsamen"},
+    {"key": "game.item.SeedBeetroot", "value": "Rote-Beete-Samen"},
+    {"key": "game.item.SeedBush", "value": "Buschsetzlinge"},
+    {"key": "game.item.SeedCactus", "value": "Kaktussamen"},
+    {"key": "game.item.SeedCypressTree", "value": "Zypressensamen"},
+    {"key": "game.item.SeedJapaneseCherryTree", "value": "Japanischer-Kirschbaum-Samen"},
+    {"key": "game.item.SeedOakTree", "value": "Eichensamen Typ 1"},
+    {"key": "game.item.SeedOak2Tree", "value": "Eichensamen Typ 2"},
+    {"key": "game.item.SeedOak3Tree", "value": "Eichensamen Typ 3"},
+    {"key": "game.item.SeedPineTree", "value": "Kiefersamen"},
+
+
+    {"key": "game.item.SaplingAppleTree", "value": "Apfelbaumsetzling"},
+    {"key": "game.item.SaplingCypressTree", "value": "Zypressensetzling"}, 
+    {"key": "game.item.SaplingJapaneseCherryTree", "value": "Japanischer-Kirschbaum-Setzling"},
+    {"key": "game.item.SaplingOakTree", "value": "Eichensetzling Typ 1"},
+    {"key": "game.item.SaplingOak2Tree", "value": "Eichensetzling Typ 2"},
+    {"key": "game.item.SaplingOak3Tree", "value": "Eichensetzling Typ 3"},
+    {"key": "game.item.SaplingPineTree", "value": "Kiefersetzling"},
+
+
+    {"key": "game.item.AppleTree", "value": "Apfelbaum"},
+    {"key": "game.item.CypressTree", "value": "Zypresse"},
+    {"key": "game.item.JapaneseCherryTree", "value": "Japanischer Kirschbaum"},
+    {"key": "game.item.OakTree", "value": "Eiche Typ 1"},
+    {"key": "game.item.Oak2Tree", "value": "Eiche Typ 2"},
+    {"key": "game.item.Oak3Tree", "value": "Eiche Typ 3"},
+    {"key": "game.item.PineTree", "value": "Kiefer"},
+    {"key": "game.item.Cactus", "value": "Kaktus"},
+
+    {"key": "game.item.desc.seed", "value": "pflanze es"},
+    {"key": "game.item.desc.sapling", "value": "setze es wieder ein"},
+    {"key": "game.item.desc.tree", "value": "Ein lebender Baum!"},
+    
+
+    {"key": "game.item.apple", "value": "Apfel"},
+    {"key": "game.item.Adrenaline", "value": "Adrenalin"},
+    {"key": "game.item.Bandage", "value": "Verband"},
+    {"key": "game.item.beetroot", "value": "Rote Beete"},
+    {"key": "game.item.GloupyGloupa", "value": "GloupyGloupa"},
+    {"key": "game.item.MedKit", "value": "Erste Hilfe Set"},
+    {"key": "game.item.PainKiller", "value": "Schmerztabletten"},
+
+    {"key": "game.item.desc.apple", "value": ""},
+    {"key": "game.item.desc.Adrenaline", "value": ""},
+    {"key": "game.item.desc.Bandage", "value": ""},
+    {"key": "game.item.desc.beetroot", "value": ""},
+    {"key": "game.item.desc.GloupyGloupa", "value": ""},
+    {"key": "game.item.desc.MedKit", "value": ""},
+    {"key": "game.item.desc.PainKiller", "value": ""},
+
+
+
+
+
+    {"key": "game.building.AnalyserBluePrintT2", "value": "Analysestation"},
+    {"key": "game.building.assemblerT2", "value": "Montagestation"},
+    {"key": "game.building.BedT0", "value": "Campingbett"},
+    {"key": "game.building.BedT1", "value": "Bett"},
+    {"key": "game.building.chestT0", "value": "behelfsmäßige Kiste"},	
+    {"key": "game.building.chestT1", "value": "Kiste"},
+    {"key": "game.building.composterT1", "value": "Komposter T1"},
+    {"key": "game.building.composterT2", "value": "Komposter T2"},
+    {"key": "game.building.ComposterReservoirT2", "value": "Vorratsbehälter für Kompost"},
+    {"key": "game.building.crusherT0", "value": "manueller Schredder"},
+    {"key": "game.building.crusherT2", "value": "automatischer Schredder"},
+    {"key": "game.building.ForgeT2", "value": "Schmiede"},
+    {"key": "game.building.furnaceT0", "value": "Lagerfeuer"},
+    {"key": "game.building.furnaceT1", "value": "Ofen"},
+    {"key": "game.building.furnaceT2", "value": "Schmelze"},
+    {"key": "game.building.planterT0", "value": "kleiner Pflanzkübel T0"},
+    {"key": "game.building.planterT1", "value": "kleiner Pflanzkübel T1"},
+    {"key": "game.building.planterLargeT0", "value": "grosser Pflanzkübel T0"},
+    {"key": "game.building.planterLargeT1", "value": "grosser Pflanzkübel T1"},
+    {"key": "game.building.PrinterT2", "value": "Drucker"},
+    {"key": "game.building.ResearchStationBluePrintT1", "value": "Forschungsstation"},
+    {"key": "game.building.seedMaker", "value": "Samen-Extrahierer"},
+    {"key": "game.building.trashBagSorterT2", "value": "Müllbeutel-Sortierer"},
+    {"key": "game.building.WaterCollectorT2", "value": "Wasserssammler"},
+    {"key": "game.building.workbenchChemicalT1", "value": "Chemietisch"},
+    {"key": "game.building.workbenchT0", "value": "Werkbank"},
+    {"key": "game.building.workbenchGearT0", "value": "Werkbank für Ausrüstung"},
+
+    {"key": "game.building.blueprint.desc", "value": "Bauplan."},
+    {"key": "game.building.desc.composterT1", "value": "Bauplan. Lege zerkleinertes organisches Material hinein und warte einen Moment."},
+
+
+    {"key": "game.villa.foundation", "value": "Fundament"},
+    {"key": "game.villa.groundFloor", "value": "Erdgeschoss"},
+    {"key": "game.villa.level1", "value": "Erste Etage"},
+    {"key": "game.villa.level2", "value": "Dach"},
+
+    {"key": "game.pond.manualPump", "value": "manuelle Pumpe"},
+    {"key": "game.pond.autoPump", "value": "automatische Pumpe"},
+    {"key": "game.pond.depollute", "value": "reinigen"},
+
+    {"key": "game.buildingUpgradable.bridge", "value": "Brücke"},
+    {"key": "game.buildingUpgradable.pumpAuto", "value": "automatische Pumpe"},
+    {"key": "game.buildingUpgradable.baseWarehouse", "value": "Gewächshaus"},
+
+
+    {"key": "game.villa.furnace", "value": "Kamin"},
+    {"key": "game.pond.acidLevel", "value": "verbleibende Säure: {0}"},
+
+    {"key": "game.attribute.range", "value": "Entfernung"},
+    {"key": "game.attribute.areaSize", "value": "Grösse des Bereichs"},
+    {"key": "game.attribute.efficiency", "value": "Effizienz"},
+    {"key": "game.attribute.useSpeed", "value": "Benutzungsgeschwindigkeit"},
+    {"key": "game.attribute.numberTargetHit", "value": "Anzahl der Ziele"},
+    {"key": "game.attribute.energyCost", "value": "Energiekosten"},
+
+    {"key": "game.attribute.energy", "value": "Energie"},
+    {"key": "game.attribute.health", "value": "Gesundheit"},
+    
+    {"key": "game.attribute.attackSpeed", "value": "Angriffsgeschwindigkeit"},
+    {"key": "game.attribute.damage", "value": "Schaden"},
+
+    {"key": "game.interact.save", "value": "Speichern"},
+    {"key": "game.interact.use", "value": "Benutzen"},
+    
+    
+    {"key": "game.goal", "value": "Aufgaben"},
+    {"key": "game.goal.gather.progress", "value": "Sammle: {0} {1}"},
+    {"key": "game.goal.build.progress", "value": "Plaziere: {0} {1}"},
+    {"key": "game.goal.craft.progress", "value": "Konstruiere: {0} {1}"},
+    {"key": "game.goal.gather.boolean", "value": "Sammle: {0}"},
+    {"key": "game.goal.build.boolean", "value": "Plaziere: {0}"},
+    {"key": "game.goal.craft.boolean", "value": "Konstruiere: {0}"},
+    {"key": "game.goal.plant.progress", "value": "Pflanze: {0} {1}"},
+    {"key": "game.goal.craft.beetroot", "value": "Benutze den Samen-Extrahierer, um Rote-Beete-Samen zu finden."},
+	{"key": "game.goal.craft.openTrashBag", "value": "Öffne Müllbeutel (Werkbank): {0}"},
+
+    {"key": "game.goal.progress.AmmoInAmmoSlot", "value": "Öffne das Inventar und plaziere Munition im Munitionsslot."},
+
+    {"key": "game.goal.cmd.move", "value": "Benutze: [{0}] [{1}] [{2}] [{3}], um dich zu bewegen"},
+    {"key": "game.goal.cmd.use", "value": "Benutze: [{0}], um mit einem Objekt zu interagieren"},
+    {"key": "game.goal.cmd.inventory", "value": "Benutze: [{0}], um dein Inventar zu öffnen"},
+    {"key": "game.goal.cmd.building", "value": "Benutze: [{0}], um das Baufenster zu öffnen"},
+    {"key": "game.goal.cmd.map", "value": "Benutze: [{0}], um die Karte zu öffnen"},
+    {"key": "game.goal.cmd.roll", "value": "Benutze: [{0}], um Auszuweichen (Rollen)"},
+    {"key": "game.goal.cmd.research", "value": "Benutze: [{0}], um die Forschungsübersicht zu öffnen"},
+
+    {"key": "game.goal.progress.planterFertilize", "value": "Dünge eine Pflanze (Pflanzkübel) {0}"},
+    {"key": "game.goal.progress.floorTileFertilize", "value": "Dünge den ausgelaugten Boden {0}"},
+    {"key": "game.goal.progress.floorTileFertilizeMax", "value": "Dünge einen Bereich (Boden) solange, bis er voll regeneriert ist"},
+
+    {"key": "game.goal.progress.saveBed", "value": "Benutze ein Bett, um zu speichern und um Gesundheit und Energie zu regenerieren."},
+    {"key": "game.goal.progress.saveBunker", "value": "Interagiere mit dem Bunker, um zu speichern und um Gesundheit und Energie zu regenerieren."},
+
+    {"key": "game.goal.progress.villaUpgrade1", "value": "Baue das Erdgeschoss des Herrenhauses wieder auf"},
+    {"key": "game.goal.progress.greenhouseUpgrade", "value": "Baue das Gewächshaus wieder auf"},
+
+    {"key": "game.goal.tier.tutorial.gather", "value": "Sammle Ressourcen"},
+    {"key": "game.goal.tier.tutorial.craftWorkbench", "value": "Baue eine Werkbank"},
+    {"key": "game.goal.tier.tutorial.placeWorkbench", "value": "Platziere die Werkbank"},
+    {"key": "game.goal.tier.tutorial.cmd", "value": "Bewegung"},
+    {"key": "game.goal.tier.tutorial.ui", "value": "Interface"},
+    {"key": "game.goal.tier.progress.phase1", "value": "Ein Upgrade"},
+    {"key": "game.goal.tier.progress.phase1.weapon", "value": "Waffen"},
+    {"key": "game.goal.tier.progress.phase2", "value": "Forschung"},
+    {"key": "game.goal.tier.progress.planter", "value": "Pflanzkübel"},
+    {"key": "game.goal.tier.progress.fertilizer", "value": "Dünger"},
+    {"key": "game.goal.tier.progress.fertilizerFloorMax", "value": "Auferstanden"},
+    {"key": "game.goal.tier.progress.save", "value": "Speichern"},
+    {"key": "game.goal.tier.progress.repair", "value": "Reparieren"},
+
+
+    {"key": "game.save", "value": "Speichern"},
+
+
+    {"key": "game.pause.settings", "value": "Einstellungen"},
+    {"key": "game.pause.resume", "value": "Fortsetzen"},
+    {"key": "game.pause.mainMenu", "value": "Hauptmenü"},
+
+
+    {"key": "settings", "value": "Einstellungen"},
+    {"key": "settings.graphics", "value": "Grafik"},
+    {"key": "settings.sounds", "value": "Klang"},
+    {"key": "settings.controls", "value": "Tastenbelegung"},
+    {"key": "settings.general", "value": "Allgemein"},
+
+    {"key": "settings.language", "value": "Sprache"},
+    {"key": "settings.showGoals", "value": "Zeige Aufgaben"},
+
+
+    {"key": "settings.resolution", "value": "Auflösung"},
+    {"key": "settings.fullscreenMode", "value": "Vollbildmodus"},
+    {"key": "settings.antialiasing", "value": "Anti-aliasing"},
+    {"key": "settings.ambientOcclusion", "value": "Umgebunsverdeckung"},
+    {"key": "settings.shadowQuality", "value": "Schattenqualität"},
+    {"key": "settings.vSync", "value": "V-Sync"},
+    {"key": "settings.vSync.on", "value": "An"},
+    {"key": "settings.vSync.off", "value": "Aus"},
+    {"key": "settings.frameRate", "value": "Framerate"},
+    {"key": "settings.frameRate.unlimited", "value": "unbegrenzt"},
+
+
+    {"key": "settings.quality.off", "value": "Aus"},
+    {"key": "settings.quality.lowest", "value": "Niedrigste"},
+    {"key": "settings.quality.low", "value": "niedrig"},
+    {"key": "settings.quality.medium", "value": "mittel"},
+    {"key": "settings.quality.hight", "value": "hoch"},
+    {"key": "settings.quality.ultra", "value": "ultra"},
+
+    {"key": "settings.fullscreenMode.fullscreen", "value": "Vollbild"},
+    {"key": "settings.fullscreenMode.borderless", "value": "Rahmenlos"},
+    {"key": "settings.fullscreenMode.window", "value": "Fenster"},
+
+    {"key": "settings.musicVolume", "value": "Musiklautstärke"},
+    {"key": "settings.effectVolume", "value": "Effektlautstärke"},
+
+    {"key": "settings.key.forward", "value": "Vorwärts"},
+    {"key": "settings.key.backward", "value": "Rückwärts"},
+    {"key": "settings.key.left", "value": "Links"},
+    {"key": "settings.key.right", "value": "Rechts"},
+    {"key": "settings.key.roll", "value": "Rollen"},
+    {"key": "settings.key.menu", "value": "Menü"},
+    {"key": "settings.key.pause", "value": "Pause"},
+    {"key": "settings.key.use", "value": "Benutzen"},
+    {"key": "settings.key.inventory", "value": "Inventar"},
+    {"key": "settings.key.building", "value": "Gebäude"},
+    {"key": "settings.key.map", "value": "Karte"},
+    {"key": "settings.key.research", "value": "Forschung"},
+    {"key": "settings.key.rotateBuilding", "value": "Gebäude drehen"},
+    {"key": "settings.key.stackSplit", "value": "Stapel teilen"},
+    {"key": "settings.key.stackTransfer", "value": "Stapel transferieren"},
+    {"key": "settings.key.cameraZoomOut", "value": "Kamera heraus zoomen"},
+    {"key": "settings.key.cameraZoomIn", "value": "Kamera hinein zoomen"},
+    {"key": "settings.key.reverseWheelDirection", "value": "Mausrad umkehren"},
+
+    
+    {"key": "settings.button.apply", "value": "Annehmen"},
+    {"key": "settings.button.default", "value": "Standard"},
+
+    {"key": "eof", "value": "eof"}
+  ]
+}
