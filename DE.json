@@ -307,7 +307,7 @@
     {"key": "game.building.chestT1", "value": "Kiste"},
     {"key": "game.building.composterT1", "value": "Komposter T1"},
     {"key": "game.building.composterT2", "value": "Komposter T2"},
-    {"key": "game.building.ComposterReservoirT2", "value": "Vorratsbehälter für Kompost"},
+    {"key": "game.building.ComposterReservoirT2", "value": "Kompostierungsanlage"},
     {"key": "game.building.crusherT0", "value": "manueller Schredder"},
     {"key": "game.building.crusherT2", "value": "automatischer Schredder"},
     {"key": "game.building.ForgeT2", "value": "Schmiede"},
