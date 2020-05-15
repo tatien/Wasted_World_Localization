@@ -442,11 +442,12 @@
     {"key": "settings.ambientOcclusion", "value": "Occlusion ambiante"},
     {"key": "settings.shadowQuality", "value": "Qualité des ombres"},
     {"key": "settings.vSync", "value": "V-Sync"},
-    {"key": "settings.vSync.on", "value": "On"},
-    {"key": "settings.vSync.off", "value": "Off"},
     {"key": "settings.frameRate", "value": "Images par seconde"},
     {"key": "settings.frameRate.unlimited", "value": "Illimité"},
 
+
+    {"key": "settings.on", "value": "On"},
+    {"key": "settings.off", "value": "Off"},
 
     {"key": "settings.quality.off", "value": "Off"},
     {"key": "settings.quality.lowest", "value": "Très faible"},
