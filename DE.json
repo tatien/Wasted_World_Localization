@@ -435,12 +435,13 @@
     {"key": "settings.ambientOcclusion", "value": "Umgebunsverdeckung"},
     {"key": "settings.shadowQuality", "value": "Schattenqualität"},
     {"key": "settings.vSync", "value": "V-Sync"},
-    {"key": "settings.vSync.on", "value": "An"},
-    {"key": "settings.vSync.off", "value": "Aus"},
     {"key": "settings.frameRate", "value": "Framerate"},
     {"key": "settings.frameRate.unlimited", "value": "unbegrenzt"},
-
-
+	
+	  
+    {"key": "settings.on", "value": "An"},
+    {"key": "settings.off", "value": "Aus"},
+	  
     {"key": "settings.quality.off", "value": "Aus"},
     {"key": "settings.quality.lowest", "value": "Niedrigste"},
     {"key": "settings.quality.low", "value": "niedrig"},
