@@ -354,7 +354,19 @@
     {"key": "game.attribute.useSpeed", "value": "Benutzungsgeschwindigkeit"},
     {"key": "game.attribute.numberTargetHit", "value": "Anzahl der Ziele"},
     {"key": "game.attribute.energyCost", "value": "Energiekosten"},
+	{"key": "game.attribute.explosionRange", "value": "Explosionsradius"},
 
+    {"key": "game.attribute.craftDuration", "value": "Herstellungszeit"},
+    {"key": "game.attribute.craftSpeed", "value": "Herstellungsgeschwindigkeit"},
+    {"key": "game.attribute.growSpeed", "value": "Wachstumsgeschwindigkeit"},
+    {"key": "game.attribute.storageStack", "value": "Stapelgrösse"},
+    {"key": "game.attribute.storageSlot", "value": "Anzahl Aufbewahrungsplätze"},
+    {"key": "game.attribute.processingPower", "value": "Herstellungsenergie"},
+    {"key": "game.attribute.processingTime", "value": "Herstellungsdauer"},
+
+    {"key": "game.attribute.bedRestoreHealth", "value": "Gesundheitsregeneration"},
+    {"key": "game.attribute.bedRestoreEnergy", "value": "Energieregeneration"},
+	
     {"key": "game.attribute.energy", "value": "Energie"},
     {"key": "game.attribute.health", "value": "Gesundheit"},
     
@@ -435,12 +447,16 @@
     {"key": "settings.ambientOcclusion", "value": "Umgebunsverdeckung"},
     {"key": "settings.shadowQuality", "value": "Schattenqualität"},
     {"key": "settings.vSync", "value": "V-Sync"},
-    {"key": "settings.vSync.on", "value": "An"},
-    {"key": "settings.vSync.off", "value": "Aus"},
     {"key": "settings.frameRate", "value": "Framerate"},
     {"key": "settings.frameRate.unlimited", "value": "unbegrenzt"},
 
 
+    {"key": "settings.on", "value": "An"},
+    {"key": "settings.off", "value": "Aus"},
+	
+	{"key": "settings.showCurrentRecipe", "value": "Zeige ausgewähltes Rezept beim Mausover"},
+	
+	
     {"key": "settings.quality.off", "value": "Aus"},
     {"key": "settings.quality.lowest", "value": "Niedrigste"},
     {"key": "settings.quality.low", "value": "niedrig"},
@@ -459,7 +475,7 @@
     {"key": "settings.key.backward", "value": "Rückwärts"},
     {"key": "settings.key.left", "value": "Links"},
     {"key": "settings.key.right", "value": "Rechts"},
-    {"key": "settings.key.roll", "value": "Rollen"},
+    {"key": "settings.key.roll", "value": "Rolle (Ausweichen)"},
     {"key": "settings.key.menu", "value": "Menü"},
     {"key": "settings.key.pause", "value": "Pause"},
     {"key": "settings.key.use", "value": "Benutzen"},
