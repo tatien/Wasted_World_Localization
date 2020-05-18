@@ -353,7 +353,21 @@
     {"key": "game.attribute.useSpeed", "value": "Vitesse d'utilisation"},
     {"key": "game.attribute.numberTargetHit", "value": "Nombre de cibles"},
     {"key": "game.attribute.energyCost", "value": "Coût en énergie"},
+    {"key": "game.attribute.explosionRange", "value": "Portée d'explosion"},
 
+
+    {"key": "game.attribute.craftDuration", "value": "Temps de fabrication"},
+    {"key": "game.attribute.craftSpeed", "value": "Vitesse de fabrication"},
+    {"key": "game.attribute.growSpeed", "value": "Vitesse de pousse"},
+    {"key": "game.attribute.storageStack", "value": "Stockage"},
+    {"key": "game.attribute.storageSlot", "value": "Emplacement de stockage"},
+    {"key": "game.attribute.processingPower", "value": "Puissance de calcul"},
+    {"key": "game.attribute.processingTime", "value": "Temps de calcul"},
+
+    {"key": "game.attribute.bedRestoreHealth", "value": "Récupération de santé"},
+    {"key": "game.attribute.bedRestoreEnergy", "value": "Récupération d'énergie"},
+    
+    
     {"key": "game.attribute.energy", "value": "Energie"},
     {"key": "game.attribute.health", "value": "Santé"},
 
@@ -448,6 +462,9 @@
 
     {"key": "settings.on", "value": "On"},
     {"key": "settings.off", "value": "Off"},
+
+    {"key": "settings.showCurrentRecipe", "value": "Voir la recette sur l'overlay"},
+
 
     {"key": "settings.quality.off", "value": "Off"},
     {"key": "settings.quality.lowest", "value": "Très faible"},

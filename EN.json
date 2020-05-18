@@ -354,6 +354,18 @@
     {"key": "game.attribute.useSpeed", "value": "Use speed"},
     {"key": "game.attribute.numberTargetHit", "value": "Number of targets"},
     {"key": "game.attribute.energyCost", "value": "Energy cost"},
+    {"key": "game.attribute.explosionRange", "value": "Explosion range"},
+
+    {"key": "game.attribute.craftDuration", "value": "Craft duration"},
+    {"key": "game.attribute.craftSpeed", "value": "Craft speed"},
+    {"key": "game.attribute.growSpeed", "value": "Grow speed"},
+    {"key": "game.attribute.storageStack", "value": "Storage stack"},
+    {"key": "game.attribute.storageSlot", "value": "Storage slots"},
+    {"key": "game.attribute.processingPower", "value": "Processing power"},
+    {"key": "game.attribute.processingTime", "value": "Processing time"},
+
+    {"key": "game.attribute.bedRestoreHealth", "value": "Health recovery"},
+    {"key": "game.attribute.bedRestoreEnergy", "value": "Energy recovery"},
 
     {"key": "game.attribute.energy", "value": "Energy"},
     {"key": "game.attribute.health", "value": "Health"},
@@ -441,7 +453,10 @@
 
     {"key": "settings.on", "value": "On"},
     {"key": "settings.off", "value": "Off"},
-    
+
+    {"key": "settings.showCurrentRecipe", "value": "Display recipe on overlay"},
+
+
     {"key": "settings.quality.off", "value": "Off"},
     {"key": "settings.quality.lowest", "value": "Lowest"},
     {"key": "settings.quality.low", "value": "Low"},
