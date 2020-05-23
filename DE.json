@@ -433,7 +433,7 @@
 
     {"key": "settings", "value": "Einstellungen"},
     {"key": "settings.graphics", "value": "Grafik"},
-    {"key": "settings.sounds", "value": "Klang"},
+    {"key": "settings.sounds", "value": "Sound"},
     {"key": "settings.controls", "value": "Tastenbelegung"},
     {"key": "settings.general", "value": "Allgemein"},
 
@@ -455,14 +455,14 @@
     {"key": "settings.on", "value": "An"},
     {"key": "settings.off", "value": "Aus"},
 	
-	  {"key": "settings.showCurrentRecipe", "value": "Zeige ausgewähltes Rezept beim Mausover"},
+    {"key": "settings.showCurrentRecipe", "value": "Zeige ausgewähltes Rezept beim Mausover"},
 
     {"key": "settings.quality.off", "value": "Aus"},
     {"key": "settings.quality.lowest", "value": "Niedrigste"},
-    {"key": "settings.quality.low", "value": "niedrig"},
-    {"key": "settings.quality.medium", "value": "mittel"},
-    {"key": "settings.quality.hight", "value": "hoch"},
-    {"key": "settings.quality.ultra", "value": "ultra"},
+    {"key": "settings.quality.low", "value": "Niedrig"},
+    {"key": "settings.quality.medium", "value": "Mittel"},
+    {"key": "settings.quality.hight", "value": "Hoch"},
+    {"key": "settings.quality.ultra", "value": "Ultra"},
 
     {"key": "settings.fullscreenMode.fullscreen", "value": "Vollbild"},
     {"key": "settings.fullscreenMode.borderless", "value": "Rahmenlos"},
