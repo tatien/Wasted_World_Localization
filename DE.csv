@@ -1,0 +1,398 @@
+Key,Value
+Do Not Translate the left text it's the text identifier.,You can translate this
+menu.button.play,Neues Spiel
+menu.button.load,Laden
+menu.button.settings,Einstellungen
+menu.button.quit,Beenden
+menu.load.delete.info,Willst du diesen Spielstand wirklich löschen?
+menu.load.delete.confirmButton,Löschen
+menu.load.delete.cancelButton,Abbrechen
+game.inventory,Inventar
+game.inventory.gears,Ausrüstungsslots
+game.inventory.bag,Rucksack
+game.inventory.ammoBag,Munitionstasche
+game.inventory.ammo,Munitionsslot(s)
+game.building,Gebäude
+game.map,Karte
+game.research,Forschung
+game.craftMachine.changeRecipe,verfügbare Rezepte
+game.craftMachine.changeRecipe.button,Rezept wechseln
+game.craftMachine.recipeLock,Dieses Rezept muss erforscht werden.
+game.craftMachine.missingQuantity,(unzureichende Materialien)
+game.research.noAccess,Benutze eine Forschungsstation, um einen Forschungsauftrag zu starten.
+game.research.noCurrent,Aktuell kein Forschungsauftrag
+game.research.status,Status: 
+game.research.status.none,Aktuell läuft keine Forschung, bitte wähle einen Forschungsauftrag.
+game.research.status.missingData,Nicht genug Daten, es werden mehr benötigt.
+game.research.status.processing,Bearbeite
+game.research.status.finished,Forschung abgeschlossen, bitte wähle einen anderen Forschungsauftrag.
+game.research.processingPower,Energie für Bearbeitung: {0}
+game.research.desc.buildingUnlock,Schalte eine neue Blaupause frei
+game.research.desc.treeUnlock,Entdecke eine neu Baumart
+game.research.MineralData,mineralische Daten
+game.research.OrganicData,organische Daten
+game.research.desc.MineralData,Ergebnis mineralischer Analyse
+game.research.desc.OrganicData,Ergebnis organischer Analyse
+game.research.ToolAoE,Werkzeug: Wirkungsbereich
+game.research.desc.ToolAoE,Erhöht den Wirkungsbereich (AoE) deines Werkzeugs.
+game.research.ToolEfficiency,Werkzeug: Effizienz
+game.research.desc.ToolEfficiency,Erhöt die Effizienz deines Werkzeugs.
+game.research.DismantlingContainer,Zerlegen von Containern
+game.research.DismantlingVehicle,Zerlegen von Fahrzeugen
+game.research.DismantlingVehicleArmored,Zerlegen von gepanzerten Fahrzeuge
+game.research.DismantlingWall,Zerlegen von Stahlbeton
+game.research.DismantlingRadioactiveWaste,Sammeln radioaktiver Abfälle
+game.research.desc.dismantling,Zerlegungstechnik
+game.item.aluminumJunk,Aluminiumschrott
+game.item.batteryJunk,alte Batterie
+game.item.copperJunk,Kupferschrott
+game.item.electronicJunk,Elektronikschrott
+game.item.fabricJunk,Stofffetzen
+game.item.glassJunk,Altglas
+game.item.ironJunk,Eisenschrott
+game.item.organicJunk,organische Abfälle
+game.item.plasticJunk,Plastikmüll
+game.item.steelJunk,Stahlschrott
+game.item.stoneJunk,Bruchstein
+game.item.tireJunk,Altreifen
+game.item.woodJunk,Altholz
+game.item.JunkRadioactive,radiaktiver Abfall
+game.item.desc.junk,Für den einen ist es Müll, für jemand anderes ein Schatz!
+game.item.trashBag,Müllbeutel
+game.item.crate,Kiste
+game.item.desc.trashBag,Whoo, es ist eine Beutekiste!
+game.item.desc.crate,Whoo, es ist eine Beutekiste!
+game.recipe.openTrashBag,Öffne Müllbeutel
+game.recipe.openCrate,Öffne Kiste
+game.item.aluminumCrushed,zerkleinertes Aluminium
+game.item.copperCrushed,zerkleinertes Kupfer
+game.item.fabricCrushed,zerkleinerter Stoff
+game.item.glassCrushed,zerkleinertes Glas
+game.item.ironCrushed,zerkleinertes Eisen
+game.item.organicCrushed,zerkleinertes organisches Material
+game.item.plasticCrushed,zerkleinertes Plastik
+game.item.steelCrushed,zerkleinerter Stahl
+game.item.stoneCrushed,zerkleinerter Stein
+game.item.tireCrushed,zerkleinerte Reifen
+game.item.woodCrushed,zerkleinertes Holz
+game.item.desc.crushed,Recycelt.
+game.item.desc.organicCrushed,Wirf es auf den Kompost.
+game.item.acidBarrel,Säurefass
+game.item.acidBucket,Eimer mit Säure
+game.item.aluminum,Aluminium
+game.item.barrelPlastic,Plastikfass
+game.item.barrelSteel,Stahlfass
+game.item.battery,Batterie
+game.item.bucket,Eimer
+game.item.copper,Kupfer
+game.item.explosive,TNT
+game.item.electronicCard,elektronisches Bauteil
+game.item.electronicComponant,elektronische Komponenten
+game.item.electronicPrintedCircuit,Leiterplatte
+game.item.fabric,Stoff
+game.item.fertilizerT1,Dünger
+game.item.fertilizerT2,Dünger T2
+game.item.fertilizerT3,Dünger T3
+game.item.glass,Glas
+game.item.iron,Eisen
+game.item.lithium,Lithium
+game.item.oilBarrel,Ölfass
+game.item.oilBucket,Eimer mit Öl
+game.item.plastic,Plastik
+game.item.steel,Stahl
+game.item.steelReinforced,verstärkter Stahl
+game.item.stone,Stein
+game.item.rubber,Gummi
+game.item.waterBarrel,Wasserfass
+game.item.waterBucket,Eimer mit Wasser
+game.item.wood,Holz
+game.item.desc.acidBarrel,Fertig zum Verarbeiten.
+game.item.desc.acidBucket,Fertig zum Verarbeiten.
+game.item.desc.aluminum,Ein Block reines Aluminium. Fertig zum Verarbeiten.
+game.item.desc.barrelPlastic,Fertig zum Verarbeiten.
+game.item.desc.barrelSteel,Fertig zum Verarbeiten.
+game.item.desc.battery,Fertig zum Verarbeiten.
+game.item.desc.bucket,Ein leerer Eimer.
+game.item.desc.copper,Ein Block reines Kupfer. Fertig zum Verarbeiten.
+game.item.desc.explosive,WARNUNG! Vorsichtig mit umgehen!
+game.item.desc.electronicCard,Fertig zum Verarbeiten.
+game.item.desc.electronicComponant,Fertig zum Verlöten.
+game.item.desc.electronicPrintedCircuit,Fertig zum Verlöten.
+game.item.desc.fabric,Ein Stück Stoff. Fertig zum Verarbeiten.
+game.item.desc.fertilizer,Als Dünger für einen Pflanzkübel (beschleunigt Pflanzenwachstum), oder zur Regeneration des Bodens.
+game.item.desc.glass,Ein Block reines Glas. Fertig zum Verarbeiten.
+game.item.desc.iron,Ein Block reines Eisen. Fertig zum Verarbeiten.
+game.item.desc.lithium,Ein Block reines Lithium. Fertig zum Verarbeiten.
+game.item.desc.oilBarrel,Fertig zum Verarbeiten.
+game.item.desc.oilBucket,Fertig zum Verarbeiten.
+game.item.desc.plastic,Ein Block reines Plastic. Fertig zum Verarbeiten.
+game.item.desc.rubber,Ein Block reines Gummi. Fertig zum Verarbeiten.
+game.item.desc.steel,Ein Block reiner Stahl. Fertig zum Verarbeiten.
+game.item.desc.steelReinforced,Verstärkte Stahlstange. Fertig zum Verarbeiten.
+game.item.desc.stone,Ein Stein. Fertig zum Verarbeiten.
+game.item.desc.waterBarrel,Fertig zum Verarbeiten.
+game.item.desc.waterBucket,Fertig zum Verarbeiten.
+game.item.desc.basicResource,Material fertig zum Verarbeiten.
+game.item.desc.wood,Ein Stück Holz. Fertig zum Verarbeiten.
+game.item.BombT1,Bombe T1
+game.item.BombT2,Bombe T2
+game.item.EarthQuakeBombT2,Mineral-Bombe
+game.item.desc.bomb,Halte Abstand!
+game.item.AmmoBagT1,Munitionsbeutel
+game.item.BagT1,Rucksack T1
+game.item.BagT2,Rucksack T2
+game.item.scanerProbe,Sonde zum Scannen
+game.item.desc.AmmoBagT1,Fügt einen Munitionsslot hinzu
+game.item.desc.BagT1,Fügt 10 Inventaplätze hinzu
+game.item.desc.BagT2,Fügt 20 Inventaplätze hinzu
+game.item.desc.scanerProbe,Scanne die Karte
+game.item.pickaxeT0,behelfsmäßige Spitzhacke
+game.item.pickaxeT1,einfache Spitzhacke
+game.item.pickaxeT2,Spitzhacke T2
+game.item.pickaxeT3,Spitzhacke T3
+game.item.desc.pickaxeT0,Benutzen, um Sachen zu zerstören/abzubauen.
+game.item.desc.pickaxeT1,Benutzen, um Sachen zu zerstören/abzubauen.
+game.item.desc.pickaxeT2,Benutzen, um Sachen zu zerstören/abzubauen.
+game.item.desc.pickaxeT3,Benutzen, um Sachen zu zerstören/abzubauen.
+game.item.hammerT1,Hammer
+game.item.Spade,Spaten
+game.item.desc.hammerT1,Benutzen, um Gebäude und Machinen auseinander zu nehmen.
+game.item.desc.Spade,Benutzen, um Pflanzen auszugraben oder Löcher zu graben.
+game.item.nailGun,Nagelpistole
+game.item.desc.nailGun,benötigt Nägel
+game.item.nail,Nagel
+game.item.desc.nail,für die Nagelpistole
+game.item.shotgunT1,einfache Schrotflinte
+game.item.shotgunT2,verbesserte Schrotflinte
+game.item.desc.shotgunT1,Fernkampfwaffe
+game.item.desc.shotgunT2,Fernkampfwaffe
+game.item.swordT0,Rohr
+game.item.swordT1,Machete
+game.item.desc.swordT0,Nahkampfwaffe
+game.item.desc.swordT1,Nahkampfwaffe
+game.item.BatT0,Baseballschläger
+game.item.desc.BatT0,Nahkampfwaffe
+game.item.SpearT0,Speer
+game.item.desc.SpearT0,Nahkampfwaffe
+game.item.DiskLauncherT1,Sägeblattwerfer
+game.item.desc.DiskLauncherT1,Verschießt rotierende Sägeblätter.
+game.item.RifleT1,einfaches Sturmgewehr
+game.item.desc.RifleT1,Fernkampfwaffe
+game.item.RifleT2,verbessertes Sturmgewehr
+game.item.desc.RifleT2,Fernkampfwaffe
+game.item.HandGunT1,Pistole
+game.item.desc.HandGunT1,Fernkampfwaffe
+game.item.RocketLauncherT1,Raketenwerfer
+game.item.desc.RocketLauncherT1,
+game.item.ammoT0,einfache Munition
+game.item.ammoT1,verbesserte Munition
+game.item.ammoT2,radioaktive Munition
+game.item.ammoCircularBladeT0,Sägeblatt
+game.item.AmmoRocketT0,Rakete
+game.item.desc.ammoT0,
+game.item.desc.ammoT1,
+game.item.desc.ammoT2,
+game.item.desc.ammoCircularBladeT0,Geeignet für den Sägeblattwerfer.
+game.item.desc.AmmoRocketT0,Munition für den Raktenwerfer.
+game.craft.multiSeed,Suche Samen
+game.craft.desc.multiSeed,Was könnte ich finden?
+game.item.SeedApple,Apfelsamen
+game.item.SeedBeetroot,Rote-Beete-Samen
+game.item.SeedBush,Buschsetzlinge
+game.item.SeedCactus,Kaktussamen
+game.item.SeedCypressTree,Zypressensamen
+game.item.SeedJapaneseCherryTree,Japanischer-Kirschbaum-Samen
+game.item.SeedOakTree,Eichensamen Typ 1
+game.item.SeedOak2Tree,Eichensamen Typ 2
+game.item.SeedOak3Tree,Eichensamen Typ 3
+game.item.SeedPineTree,Kiefersamen
+game.item.SaplingAppleTree,Apfelbaumsetzling
+game.item.SaplingCypressTree,Zypressensetzling
+game.item.SaplingJapaneseCherryTree,Japanischer-Kirschbaum-Setzling
+game.item.SaplingOakTree,Eichensetzling Typ 1
+game.item.SaplingOak2Tree,Eichensetzling Typ 2
+game.item.SaplingOak3Tree,Eichensetzling Typ 3
+game.item.SaplingPineTree,Kiefersetzling
+game.item.AppleTree,Apfelbaum
+game.item.CypressTree,Zypresse
+game.item.JapaneseCherryTree,Japanischer Kirschbaum
+game.item.OakTree,Eiche Typ 1
+game.item.Oak2Tree,Eiche Typ 2
+game.item.Oak3Tree,Eiche Typ 3
+game.item.PineTree,Kiefer
+game.item.Cactus,Kaktus
+game.item.desc.seed,pflanze es
+game.item.desc.sapling,setze es wieder ein
+game.item.desc.tree,Ein lebender Baum!
+game.item.apple,Apfel
+game.item.Adrenaline,Adrenalin
+game.item.Bandage,Verband
+game.item.beetroot,Rote Beete
+game.item.GloupyGloupa,GloupyGloupa
+game.item.MedKit,Erste Hilfe Set
+game.item.PainKiller,Schmerztabletten
+game.item.desc.apple,
+game.item.desc.Adrenaline,
+game.item.desc.Bandage,
+game.item.desc.beetroot,
+game.item.desc.GloupyGloupa,
+game.item.desc.MedKit,
+game.item.desc.PainKiller,
+game.building.AnalyserBluePrintT2,Analysestation
+game.building.assemblerT2,Montagestation
+game.building.BedT0,Campingbett
+game.building.BedT1,Bett
+game.building.chestT0,behelfsmäßige Kiste
+game.building.chestT1,Kiste
+game.building.composterT1,Komposter T1
+game.building.composterT2,Komposter T2
+game.building.ComposterReservoirT2,Kompostierungsanlage
+game.building.crusherT0,manueller Schredder
+game.building.crusherT2,automatischer Schredder
+game.building.ForgeT2,Schmiede
+game.building.furnaceT0,Lagerfeuer
+game.building.furnaceT1,Ofen
+game.building.furnaceT2,Schmelze
+game.building.planterT0,kleiner Pflanzkübel T0
+game.building.planterT1,kleiner Pflanzkübel T1
+game.building.planterLargeT0,grosser Pflanzkübel T0
+game.building.planterLargeT1,grosser Pflanzkübel T1
+game.building.PrinterT2,Drucker
+game.building.ResearchStationBluePrintT1,Forschungsstation
+game.building.seedMaker,Samen-Extrahierer
+game.building.trashBagSorterT2,Müllbeutel-Sortierer
+game.building.WaterCollectorT2,Wasserssammler
+game.building.workbenchChemicalT1,Chemietisch
+game.building.workbenchT0,Werkbank
+game.building.workbenchGearT0,Werkbank für Ausrüstung
+game.building.blueprint.desc,Bauplan.
+game.building.desc.composterT1,Bauplan. Lege zerkleinertes organisches Material hinein und warte einen Moment.
+game.villa.foundation,Fundament
+game.villa.groundFloor,Erdgeschoss
+game.villa.level1,Erste Etage
+game.villa.level2,Dach
+game.pond.manualPump,manuelle Pumpe
+game.pond.autoPump,automatische Pumpe
+game.pond.depollute,reinigen
+game.buildingUpgradable.bridge,Brücke
+game.buildingUpgradable.pumpAuto,automatische Pumpe
+game.buildingUpgradable.baseWarehouse,Gewächshaus
+game.villa.furnace,Kamin
+game.pond.acidLevel,verbleibende Säure: {0}
+game.attribute.range,Entfernung
+game.attribute.areaSize,Grösse des Bereichs
+game.attribute.efficiency,Effizienz
+game.attribute.useSpeed,Benutzungsgeschwindigkeit
+game.attribute.numberTargetHit,Anzahl der Ziele
+game.attribute.energyCost,Energiekosten
+game.attribute.explosionRange,Explosionsradius
+game.attribute.craftDuration,Herstellungszeit
+game.attribute.craftSpeed,Herstellungsgeschwindigkeit
+game.attribute.growSpeed,Wachstumsgeschwindigkeit
+game.attribute.storageStack,Stapelgrösse
+game.attribute.storageSlot,Anzahl Aufbewahrungsplätze
+game.attribute.processingPower,Herstellungsenergie
+game.attribute.processingTime,Herstellungsdauer
+game.attribute.bedRestoreHealth,Gesundheitsregeneration
+game.attribute.bedRestoreEnergy,Energieregeneration
+game.attribute.energy,Energie
+game.attribute.health,Gesundheit
+game.attribute.attackSpeed,Angriffsgeschwindigkeit
+game.attribute.damage,Schaden
+game.interact.save,Speichern
+game.interact.use,Benutzen
+game.goal,Aufgaben
+game.goal.gather.progress,Sammle: {0} {1}
+game.goal.build.progress,Plaziere: {0} {1}
+game.goal.craft.progress,Konstruiere: {0} {1}
+game.goal.gather.boolean,Sammle: {0}
+game.goal.build.boolean,Plaziere: {0}
+game.goal.craft.boolean,Konstruiere: {0}
+game.goal.plant.progress,Pflanze: {0} {1}
+game.goal.craft.beetroot,Benutze den Samen-Extrahierer, um Rote-Beete-Samen zu finden.
+game.goal.craft.openTrashBag,Öffne Müllbeutel (Werkbank): {0}
+game.goal.progress.AmmoInAmmoSlot,Öffne das Inventar und plaziere Munition im Munitionsslot.
+game.goal.cmd.move,Benutze: [{0}] [{1}] [{2}] [{3}], um dich zu bewegen
+game.goal.cmd.use,Benutze: [{0}], um mit einem Objekt zu interagieren
+game.goal.cmd.inventory,Benutze: [{0}], um dein Inventar zu öffnen
+game.goal.cmd.building,Benutze: [{0}], um das Baufenster zu öffnen
+game.goal.cmd.map,Benutze: [{0}], um die Karte zu öffnen
+game.goal.cmd.roll,Benutze: [{0}], um Auszuweichen (Rollen)
+game.goal.cmd.research,Benutze: [{0}], um die Forschungsübersicht zu öffnen
+game.goal.progress.planterFertilize,Dünge eine Pflanze (Pflanzkübel) {0}
+game.goal.progress.floorTileFertilize,Dünge den ausgelaugten Boden {0}
+game.goal.progress.floorTileFertilizeMax,Dünge einen Bereich (Boden) solange, bis er voll regeneriert ist
+game.goal.progress.saveBed,Benutze ein Bett, um zu speichern und um Gesundheit und Energie zu regenerieren.
+game.goal.progress.saveBunker,Interagiere mit dem Bunker, um zu speichern und um Gesundheit und Energie zu regenerieren.
+game.goal.progress.villaUpgrade1,Baue das Erdgeschoss des Herrenhauses wieder auf
+game.goal.progress.greenhouseUpgrade,Baue das Gewächshaus wieder auf
+game.goal.tier.tutorial.gather,Sammle Ressourcen
+game.goal.tier.tutorial.craftWorkbench,Baue eine Werkbank
+game.goal.tier.tutorial.placeWorkbench,Platziere die Werkbank
+game.goal.tier.tutorial.cmd,Bewegung
+game.goal.tier.tutorial.ui,Interface
+game.goal.tier.progress.phase1.tool,An upgrade
+game.goal.tier.progress.phase1.weapon,Waffen
+game.goal.tier.progress.phase2,Forschung
+game.goal.tier.progress.planter,Pflanzkübel
+game.goal.tier.progress.fertilizer,Dünger
+game.goal.tier.progress.fertilizerFloorMax,Auferstanden
+game.goal.tier.progress.save,Speichern
+game.goal.tier.progress.repair,Reparieren
+game.save,Speichern
+game.pause.settings,Einstellungen
+game.pause.resume,Fortsetzen
+game.pause.mainMenu,Hauptmenü
+settings,Einstellungen
+settings.graphics,Grafik
+settings.sounds,Klang
+settings.controls,Tastenbelegung
+settings.general,Allgemein
+settings.language,Sprache
+settings.showGoals,Zeige Aufgaben
+settings.resolution,Auflösung
+settings.fullscreenMode,Vollbildmodus
+settings.antialiasing,Anti-aliasing
+settings.ambientOcclusion,Umgebunsverdeckung
+settings.shadowQuality,Schattenqualität
+settings.vSync,V-Sync
+settings.frameRate,Framerate
+settings.frameRate.unlimited,unbegrenzt
+settings.on,An
+settings.off,Aus
+settings.showCurrentRecipe,Zeige ausgewähltes Rezept beim Mausover
+settings.quality.off,Aus
+settings.quality.lowest,Niedrigste
+settings.quality.low,niedrig
+settings.quality.medium,mittel
+settings.quality.hight,hoch
+settings.quality.ultra,ultra
+settings.fullscreenMode.fullscreen,Vollbild
+settings.fullscreenMode.borderless,Rahmenlos
+settings.fullscreenMode.window,Fenster
+settings.musicVolume,Musiklautstärke
+settings.effectVolume,Effektlautstärke
+settings.key.forward,Vorwärts
+settings.key.backward,Rückwärts
+settings.key.left,Links
+settings.key.right,Rechts
+settings.key.roll,Rolle (Ausweichen)
+settings.key.menu,Menü
+settings.key.pause,Pause
+settings.key.use,Benutzen
+settings.key.inventory,Inventar
+settings.key.building,Gebäude
+settings.key.map,Karte
+settings.key.research,Forschung
+settings.key.rotateBuilding,Gebäude drehen
+settings.key.stackSplit,Stapel teilen
+settings.key.stackTransfer,Stapel transferieren
+settings.key.cameraZoomOut,Kamera heraus zoomen
+settings.key.cameraZoomIn,Kamera hinein zoomen
+settings.key.reverseWheelDirection,Mausrad umkehren
+settings.button.apply,Annehmen
+settings.button.default,Standard
+eof,eof
+Do Not Translate the left text it the identifier of the text,You can translate this
+game.goal.tier.progress.phase1,Ein Upgrade
+

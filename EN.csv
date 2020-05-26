@@ -1,0 +1,398 @@
+Key,Value
+Do Not Translate the left text it's the identifier of the text,You can translate this
+menu.button.play,New game
+menu.button.load,Load
+menu.button.settings,Settings
+menu.button.quit,Quit
+menu.load.delete.info,Do you really want to delete this save?
+menu.load.delete.confirmButton,Delete
+menu.load.delete.cancelButton,Cancel
+game.inventory,Inventory
+game.inventory.gears,Gears
+game.inventory.bag,Bag
+game.inventory.ammoBag,Ammo bag
+game.inventory.ammo,Ammo
+game.building,Building
+game.map,Map
+game.research,Research
+game.craftMachine.changeRecipe,Recipes available
+game.craftMachine.changeRecipe.button,Change recipe
+game.craftMachine.recipeLock,This recipe must be research.
+game.craftMachine.missingQuantity,(Insufficient quantities)
+game.research.noAccess,Use a research station to start a research.
+game.research.noCurrent,No current research
+game.research.status,Status: 
+game.research.status.none,No current research, please select a research to process.
+game.research.status.missingData,Insufficient data, more data required.
+game.research.status.processing,Processing
+game.research.status.finished,Research finished, please select another research to process.
+game.research.processingPower,Processing Power: {0}
+game.research.desc.buildingUnlock,Unlock a new blueprint
+game.research.desc.treeUnlock,Find a new tree species
+game.research.MineralData,Mineral data
+game.research.OrganicData,Organic data
+game.research.desc.MineralData,Mineral analysis results
+game.research.desc.OrganicData,Organic analysis results
+game.research.ToolAoE,Tool: Area of effect
+game.research.desc.ToolAoE,Increase tools area of effect.
+game.research.ToolEfficiency,Tool: efficiency
+game.research.desc.ToolEfficiency,Increase tools efficiency.
+game.research.DismantlingContainer,Container dismantling
+game.research.DismantlingVehicle,Vehicle dismantling
+game.research.DismantlingVehicleArmored,Armored vehicle dismantling
+game.research.DismantlingWall,Reinforced concrete dismantling
+game.research.DismantlingRadioactiveWaste,Radioactive waste collection
+game.research.desc.dismantling,Dismantling technique
+game.item.aluminumJunk,Junk aluminum
+game.item.batteryJunk,Junk battery
+game.item.copperJunk,Junk copper
+game.item.electronicJunk,Junk electronic
+game.item.fabricJunk,Junk fabric
+game.item.glassJunk,Junk glass
+game.item.ironJunk,Junk iron
+game.item.organicJunk,Junk organic
+game.item.plasticJunk,Junk plastic
+game.item.steelJunk,Junk steel
+game.item.stoneJunk,Junk stone
+game.item.tireJunk,Tire
+game.item.woodJunk,Junk wood
+game.item.JunkRadioactive,Radioactive waste
+game.item.desc.junk,One man's trash is another's treasure!
+game.item.trashBag,Trash bag
+game.item.crate,Crate
+game.item.desc.trashBag,Whoo it's a loot box!
+game.item.desc.crate,Whoo it's a loot box!
+game.recipe.openTrashBag,Open trash bag
+game.recipe.openCrate,Open crate
+game.item.aluminumCrushed,Crushed aluminum
+game.item.copperCrushed,Crushed copper
+game.item.fabricCrushed,Crushed fabric
+game.item.glassCrushed,Crushed glass
+game.item.ironCrushed,Crushed iron
+game.item.organicCrushed,Crushed organic
+game.item.plasticCrushed,Crushed plastic
+game.item.steelCrushed,Crushed steel
+game.item.stoneCrushed,Crushed stone
+game.item.tireCrushed,Crushed Tire
+game.item.woodCrushed,Crushed wood
+game.item.desc.crushed,Ready for recycling.
+game.item.desc.organicCrushed,To put in a composter.
+game.item.acidBarrel,Acid barrel
+game.item.acidBucket,Acid bucket
+game.item.aluminum,Aluminum
+game.item.barrelPlastic,Plastic barrel
+game.item.barrelSteel,Steel barrel
+game.item.battery,Battery
+game.item.bucket,Bucket
+game.item.copper,Copper
+game.item.explosive,Explosive
+game.item.electronicCard,Electronic card
+game.item.electronicComponant,Electronic component
+game.item.electronicPrintedCircuit,Printed circuit board
+game.item.fabric,Fabric
+game.item.fertilizerT1,Fertilizer
+game.item.fertilizerT2,Fertilizer T2
+game.item.fertilizerT3,Fertilizer T3
+game.item.glass,Glass
+game.item.iron,Iron
+game.item.lithium,Lithium
+game.item.oilBarrel,Oil barrel
+game.item.oilBucket,Oil bucket
+game.item.plastic,Plastic
+game.item.steel,Steel
+game.item.steelReinforced,Reinforced steel
+game.item.stone,Stone
+game.item.rubber,Rubber
+game.item.waterBarrel,Water barrel
+game.item.waterBucket,Water bucket
+game.item.wood,Wood
+game.item.desc.acidBarrel,Ready for craft.
+game.item.desc.acidBucket,Ready for craft.
+game.item.desc.aluminum,A pure block of aluminum. Ready for craft.
+game.item.desc.barrelPlastic,Ready for craft.
+game.item.desc.barrelSteel,Ready for craft.
+game.item.desc.battery,Ready for craft.
+game.item.desc.bucket,An empty bucket.
+game.item.desc.copper,A pure block of copper. Ready for craft.
+game.item.desc.explosive,CAUTION Handle with care!
+game.item.desc.electronicCard,Ready for craft.
+game.item.desc.electronicComponant,Ready to be welded.
+game.item.desc.electronicPrintedCircuit,Ready to be welded.
+game.item.desc.fabric,Pile of fabric. Ready for craft.
+game.item.desc.fertilizer,Use it to fasten the growth of a plant a planter or to heal the ground.
+game.item.desc.glass,A pure block of glass. Ready for craft.
+game.item.desc.iron,A pure block of iron. Ready for craft.
+game.item.desc.lithium,A pure block of lithium. Ready for craft.
+game.item.desc.oilBarrel,Ready for craft.
+game.item.desc.oilBucket,Ready for craft.
+game.item.desc.plastic,A pure block of plastic. Ready for craft.
+game.item.desc.rubber,A pure block of rubber. Ready for craft.
+game.item.desc.steel,A pure block of steel. Ready for craft.
+game.item.desc.steelReinforced,Reinforced steel bar. Ready for craft.
+game.item.desc.stone,A stone. Ready for craft.
+game.item.desc.waterBarrel,Ready for craft.
+game.item.desc.waterBucket,Ready for craft.
+game.item.desc.basicResource,Resource ready for craft.
+game.item.desc.wood,A piece wood. Ready for craft.
+game.item.BombT1,Bomb T1
+game.item.BombT2,Bomb T2
+game.item.EarthQuakeBombT2,Mineral bomb
+game.item.desc.bomb,Stay away
+game.item.AmmoBagT1,Ammo bag
+game.item.BagT1,Bag T1
+game.item.BagT2,Bag T2
+game.item.scanerProbe,Scaner probe
+game.item.desc.AmmoBagT1,Add one ammunition slot
+game.item.desc.BagT1,Add 10 inventory slots
+game.item.desc.BagT2,Add 20 inventory slots
+game.item.desc.scanerProbe,Scan the map
+game.item.pickaxeT0,Makeshift pickaxe
+game.item.pickaxeT1,Basic Pickaxe
+game.item.pickaxeT2,Pickaxe T2
+game.item.pickaxeT3,Pickaxe T3
+game.item.desc.pickaxeT0,Makeshift pickaxe, used to break things.
+game.item.desc.pickaxeT1,Basic pickaxe, used to break things.
+game.item.desc.pickaxeT2,Pickaxe, used to break things.
+game.item.desc.pickaxeT3,Pickaxe, used to break things.
+game.item.hammerT1,Hammer
+game.item.Spade,Spade
+game.item.desc.hammerT1,Used to dismantle machine and building.
+game.item.desc.Spade,Used to uproot a plant or dig a hole.
+game.item.nailGun,Nail gun
+game.item.desc.nailGun,Needs nails
+game.item.nail,Nail
+game.item.desc.nail,Use with Nail gun
+game.item.shotgunT1,Shotgun
+game.item.shotgunT2,Shotgun
+game.item.desc.shotgunT1,Shotgun
+game.item.desc.shotgunT2,Shotgun
+game.item.swordT0,Pipe
+game.item.swordT1,Machete
+game.item.desc.swordT0,Melee weapon
+game.item.desc.swordT1,Melee weapon
+game.item.BatT0,Baseball bat
+game.item.desc.BatT0,Melee weapon
+game.item.SpearT0,Spear
+game.item.desc.SpearT0,Melee weapon
+game.item.DiskLauncherT1,Disk launcher
+game.item.desc.DiskLauncherT1,Circular blade launcher.
+game.item.RifleT1,Assault riffle
+game.item.desc.RifleT1,
+game.item.RifleT2,Assault riffle
+game.item.desc.RifleT2,
+game.item.HandGunT1,Hand gun
+game.item.desc.HandGunT1,
+game.item.RocketLauncherT1,Rocket launcher
+game.item.desc.RocketLauncherT1,
+game.item.ammoT0,Basic ammunition
+game.item.ammoT1,Advance ammunition
+game.item.ammoT2,Radioactive ammunition
+game.item.ammoCircularBladeT0,Circular saw blade
+game.item.AmmoRocketT0,Rocket
+game.item.desc.ammoT0,
+game.item.desc.ammoT1,
+game.item.desc.ammoT2,
+game.item.desc.ammoCircularBladeT0,Ammo for the disk launcher.
+game.item.desc.AmmoRocketT0,Ammo for the rocket launcher.
+game.craft.multiSeed,Find seeds
+game.craft.desc.multiSeed,What can I possibly find ?
+game.item.SeedApple,Apple seed
+game.item.SeedBeetroot,Beetroot seed
+game.item.SeedBush,Bush seed
+game.item.SeedCactus,Cactus seed
+game.item.SeedCypressTree,Cupressus seed
+game.item.SeedJapaneseCherryTree,Prunus serrulata seed
+game.item.SeedOakTree,Oak seed
+game.item.SeedOak2Tree,Oak 2 seed
+game.item.SeedOak3Tree,Oak 3 seed
+game.item.SeedPineTree,Pine seed
+game.item.SaplingAppleTree,Apple sapling
+game.item.SaplingCypressTree,Cupressus sapling
+game.item.SaplingJapaneseCherryTree,Prunus serrulata sapling
+game.item.SaplingOakTree,Oak sapling
+game.item.SaplingOak2Tree,Oak 2 sapling
+game.item.SaplingOak3Tree,Oak 3 sapling
+game.item.SaplingPineTree,Pine sapling
+game.item.AppleTree,Apple tree
+game.item.CypressTree,Cupressus
+game.item.JapaneseCherryTree,Prunus serrulata
+game.item.OakTree,Oak
+game.item.Oak2Tree,Oak 2
+game.item.Oak3Tree,Oak 3
+game.item.PineTree,Pine
+game.item.Cactus,Cactus
+game.item.desc.seed,Plant it
+game.item.desc.sapling,Re-plant it
+game.item.desc.Cactus,Store water
+game.item.desc.tree,A living tree!
+game.item.apple,Apple
+game.item.Adrenaline,Adrenaline
+game.item.Bandage,Bandage
+game.item.beetroot,Beetroot
+game.item.GloupyGloupa,GloupyGloupa
+game.item.MedKit,MedKit
+game.item.PainKiller,PainKiller
+game.item.desc.apple,
+game.item.desc.Adrenaline,
+game.item.desc.Bandage,
+game.item.desc.beetroot,
+game.item.desc.GloupyGloupa,
+game.item.desc.MedKit,
+game.item.desc.PainKiller,
+game.building.AnalyserBluePrintT2,Analysing station
+game.building.articulatedArmT0,Makeshift articulated arm
+game.building.articulatedArmT2,Articulated arm
+game.building.assemblerT2,Assembling station
+game.building.BedT0,Camp bed
+game.building.BedT1,Bed
+game.building.chestT0,Makeshift chest
+game.building.chestT1,Chest
+game.building.composterT1,Composter T1
+game.building.composterT2,Composter T2
+game.building.ComposterReservoirT2,Compost tank
+game.building.crusherT0,Manual crusher
+game.building.crusherT2,Automatic crusher
+game.building.ForgeT2,Forge
+game.building.furnaceT0,Campfire
+game.building.furnaceT1,Oven
+game.building.furnaceT2,Smelter
+game.building.planterT0,Planter T0
+game.building.planterT1,Planter T1
+game.building.planterLargeT0,Planter large T0
+game.building.planterLargeT1,Planter large T1
+game.building.PrinterT2,Printer
+game.building.ResearchStationBluePrintT1,Research station
+game.building.seedMaker,Seed extractor
+game.building.trashBagSorterT2,Trash bag sorter
+game.building.WaterCollectorT2,Water collector
+game.building.workbenchChemicalT1,Chemical workbench
+game.building.workbenchT0,Workbench
+game.building.workbenchGearT0,Gear workbench
+game.building.blueprint.desc,Blueprint ready to be placed.
+game.building.desc.composterT1,Blueprint ready to be placed. Put crushed organic in and let it rest for a while.
+game.villa.foundation,Foundations
+game.villa.groundFloor,Ground floor
+game.villa.level1,First floor
+game.villa.level2,Roof
+game.pond.manualPump,Manual pump
+game.pond.autoPump,Automatic pump
+game.pond.depollute,Depollute
+game.buildingUpgradable.bridge,Bridge
+game.buildingUpgradable.pumpAuto,Automatic pump
+game.buildingUpgradable.baseWarehouse,Green house
+game.villa.furnace,Furnace
+game.pond.acidLevel,Acid remaining: {0}
+game.attribute.range,Range
+game.attribute.areaSize,Area
+game.attribute.efficiency,Efficiency
+game.attribute.useSpeed,Use speed
+game.attribute.numberTargetHit,Number of targets
+game.attribute.energyCost,Energy cost
+game.attribute.explosionRange,Explosion range
+game.attribute.craftDuration,Craft duration
+game.attribute.craftSpeed,Craft speed
+game.attribute.growSpeed,Grow speed
+game.attribute.storageStack,Storage stack
+game.attribute.storageSlot,Storage slots
+game.attribute.processingPower,Processing power
+game.attribute.processingTime,Processing time
+game.attribute.bedRestoreHealth,Health recovery
+game.attribute.bedRestoreEnergy,Energy recovery
+game.attribute.energy,Energy
+game.attribute.health,Health
+game.attribute.attackSpeed,Attack speed
+game.attribute.damage,Damage
+game.interact.save,Save
+game.interact.use,Use
+game.goal,Goals
+game.goal.gather.progress,Gather: {0} {1}
+game.goal.build.progress,Build: {0} {1}
+game.goal.craft.progress,Craft: {0} {1}
+game.goal.gather.boolean,Gather: {0}
+game.goal.build.boolean,Place: {0}
+game.goal.craft.boolean,Craft: {0}
+game.goal.plant.progress,Plant: {0} {1}
+game.goal.craft.beetroot,Use the seed extractor to find beetroot seed
+game.goal.craft.openTrashBag,Open trash bags {0}
+game.goal.progress.AmmoInAmmoSlot,Open inventory and place ammo in the ammo slot
+game.goal.cmd.move,Use: [{0}] [{1}] [{2}] [{3}] to move
+game.goal.cmd.use,Use: [{0}] to interact with object
+game.goal.cmd.inventory,Use: [{0}] to open inventory
+game.goal.cmd.building,Use: [{0}] to open building craft window
+game.goal.cmd.map,Use: [{0}] to open map
+game.goal.cmd.roll,Use: [{0}] to roll
+game.goal.cmd.research,Use: [{0}] to open research tab
+game.goal.progress.planterFertilize,Use fertilizer on plants {0}
+game.goal.progress.floorTileFertilize,Use fertilizer on dirt tile {0}
+game.goal.progress.floorTileFertilizeMax,Upgrade a dirt tile to the maximum
+game.goal.progress.saveBed,Interact with a bed to save and regenerate health and energy.
+game.goal.progress.saveBunker,Interact with the bunker to save and regenerate health and energy.
+game.goal.progress.villaUpgrade1,Rebuild a manor floor
+game.goal.progress.greenhouseUpgrade,Rebuild the greenhouse
+game.goal.tier.tutorial.gather,Gather resources
+game.goal.tier.tutorial.craftWorkbench,Craft a workbench
+game.goal.tier.tutorial.placeWorkbench,Place your workbench
+game.goal.tier.tutorial.cmd,Movement
+game.goal.tier.tutorial.ui,Interface
+game.goal.tier.progress.phase1.tool,An upgrade
+game.goal.tier.progress.phase1.weapon,Weaponry
+game.goal.tier.progress.phase2,Research
+game.goal.tier.progress.planter,Planter
+game.goal.tier.progress.fertilizer,Fertilizer
+game.goal.tier.progress.fertilizerFloorMax,From the dead
+game.goal.tier.progress.save,Save
+game.goal.tier.progress.repair,Repair
+game.save,Save
+game.pause.settings,Settings
+game.pause.resume,Resume
+game.pause.mainMenu,Main menu
+settings,Settings
+settings.graphics,Graphics
+settings.sounds,Sound
+settings.controls,Controls
+settings.general,General
+settings.language,Language
+settings.showGoals,Show goals
+settings.resolution,Resolution
+settings.fullscreenMode,Fullscreen mode
+settings.antialiasing,Anti-aliasing
+settings.ambientOcclusion,Ambient occlusion
+settings.shadowQuality,Shadow quality
+settings.vSync,V-Sync
+settings.frameRate,Frame rate
+settings.frameRate.unlimited,Unlimited
+settings.on,On
+settings.off,Off
+settings.showCurrentRecipe,Display recipe on overlay
+settings.quality.off,Off
+settings.quality.lowest,Lowest
+settings.quality.low,Low
+settings.quality.medium,Medium
+settings.quality.hight,High
+settings.quality.ultra,Ultra
+settings.fullscreenMode.fullscreen,Fullscreen
+settings.fullscreenMode.borderless,Borderless
+settings.fullscreenMode.window,Window
+settings.musicVolume,Music volume
+settings.effectVolume,Effect volume
+settings.key.forward,Forward
+settings.key.backward,Backward
+settings.key.left,Left
+settings.key.right,Right
+settings.key.roll,Roll
+settings.key.menu,Menu
+settings.key.pause,Pause
+settings.key.use,Use
+settings.key.inventory,Inventory
+settings.key.building,Building
+settings.key.map,Map
+settings.key.research,Research
+settings.key.rotateBuilding,Rotate building
+settings.key.stackSplit,Stack split
+settings.key.stackTransfer,Stack transfer
+settings.key.cameraZoomOut,Camera zoom out
+settings.key.cameraZoomIn,Camera zoom in
+settings.key.reverseWheelDirection,Reverse wheel direction
+settings.button.apply,Apply
+settings.button.default,Default
+eof,eof
